@@ -1,0 +1,39 @@
+{
+  "id": "I046844BA",
+  "title": {
+    "BO": "ཚངས་པས་ཞུས་པའི་མདོ།"
+  },
+  "author": {
+    "BO": "སངས་རྒྱས་བཅོམ་ལྡན་འདས།"
+  },
+  "imported": "2025-01-10T18:49:58.582705",
+  "source": "https://library.bdrc.io/show/bdr:MW22084_0158",
+  "toolkit_version": "0.0.1",
+  "parser": "GoogleDocTranslationParser",
+  "initial_creation_type": "google_docx",
+  "language": "bo",
+  "source_metadata": {
+    "title_short": {
+      "BO": "ཚངས་པས་ཞུས་པའི་མདོ།"
+    },
+    "title_long_clean": {
+      "BO": "འཕགས་པ་ཚངས་པས་ཞུས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།"
+    }
+  },
+  "bases": [
+    {
+      "ED4C": {
+        "source_metadata": {
+          "total_segments": 301
+        },
+        "base_file": "ED4C.txt"
+      }
+    }
+  ],
+  "copyright": {
+    "status": "Unknown",
+    "notice": "",
+    "info_url": null
+  },
+  "licence": "Unknown"
+}
